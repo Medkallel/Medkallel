@@ -3,7 +3,7 @@
 
 **`Data Scientist (Developer/Analyst/Public Speaker)`**
 
-### [📊 Data Analysis Projects](https://github.com/stars/Medkallel/lists/data-analysis-projects)
+### [📊 Data Science Projects](https://github.com/stars/Medkallel/lists/data-analysis-projects)
 
 
 ---
