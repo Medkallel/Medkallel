@@ -5,7 +5,7 @@
 ### [📊 Data Analysis Projects](https://github.com/stars/Medkallel/lists/data-analysis-projects)
 
 ---
-[banner](https://media.licdn.com/dms/image/v2/D4E16AQFhfYTt2J33vQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719355791564?e=1730937600&v=beta&t=Ikfi5iZD9J03o1ur5GOdH8SLMyvVzjZnd9U6ZqS5SPU)
+![banner](https://media.licdn.com/dms/image/v2/D4E16AQFhfYTt2J33vQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719355791564?e=1730937600&v=beta&t=Ikfi5iZD9J03o1ur5GOdH8SLMyvVzjZnd9U6ZqS5SPU)
 ---
 ## 👨‍💻 About Me
 Passionate about technology and recognized for innovation, I am currently enrolled in the Sorbonne Data Analytics M1 Data Science program.
