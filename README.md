@@ -1,4 +1,4 @@
-![banner](https://media.licdn.com/dms/image/v2/D4E16AQFhfYTt2J33vQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719355791564?e=1730937600&v=beta&t=Ikfi5iZD9J03o1ur5GOdH8SLMyvVzjZnd9U6ZqS5SPU)
+![banner](https://media.licdn.com/dms/image/v2/D4E16AQFhfYTt2J33vQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719355791564?e=1740614400&v=beta&t=FKEF3VBN09N1jisKTuP-Zvld3jXOTSGkGSdUEzWLq1E)
 # 🧑🏻‍💻 Mohamed Kallel
 
 **`Data Scientist (Developer/Analyst/Public Speaker)`**
