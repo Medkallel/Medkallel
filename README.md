@@ -1,5 +1,7 @@
-![banner](https://media.licdn.com/dms/image/v2/D4E16AQFhfYTt2J33vQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719355791564?e=1740614400&v=beta&t=FKEF3VBN09N1jisKTuP-Zvld3jXOTSGkGSdUEzWLq1E)
+![banner](https://github.com/user-attachments/assets/ee67bca1-8d55-4e68-b7b1-8a51940559a3)
+
 # 🧑🏻‍💻 Mohamed Kallel
+
 
 **`Data Scientist (Developer/Analyst/Public Speaker)`**
 
